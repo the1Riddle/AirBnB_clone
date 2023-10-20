@@ -33,3 +33,9 @@ Getting Started
 Conclusion
 ------------------------------
 This project offers us the opportunity to apply our Python skills in an educational context. Together, we can create application and learn along the way!
+
+----------------------------------
+### Contrubutors of this project
+
+1. [Elvis Otieno](https://github.com/elvismalsa)
+2. [Nigel Zenda](https://github.com/Heavenboi)
