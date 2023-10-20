@@ -1,10 +1,9 @@
-#!/usr/bin/python3
-'''
-this is user class
-'''
+#!/usr/bin/env python3
+""" Class Amenity """
 
-from base_model import BaseModel
+from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
+    """ Class Amenity """
     name = ""

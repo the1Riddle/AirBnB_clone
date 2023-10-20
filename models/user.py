@@ -1,16 +1,11 @@
-#!/usr/bin/python3
-'''
-this is user class
-'''
+#!/usr/bin/env python3
+""" Class user """
 
-from base_model import BaseModel
+from models.base_model import BaseModel
 
 
 class User(BaseModel):
-    '''
-    user class that inherits from BaseModel
-    '''
-
+    """ Class user """
     email = ""
     password = ""
     first_name = ""

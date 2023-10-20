@@ -1,7 +1,9 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+""" Class State """
 
-from base_model import BaseModel
+from models.base_model import BaseModel
 
 
-class Sate(BaseModel):
+class State(BaseModel):
+    """ Class State """
     name = ""

@@ -1,11 +1,11 @@
-#!/usr/bin/python3
-'''
-This is a user class
-'''
+#!/usr/bin/env python3
+""" Class City """
 
-from base_model import BaseModel
+from models.base_model import BaseModel
 
 
 class City(BaseModel):
+    """Class City"""
+
     state_id = ""
     name = ""
