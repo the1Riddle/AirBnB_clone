@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#  Bash script that transfers a file from our client to a server:
+#  Bash script that transfers a file from local pc to the servers:
 if [ "$#" -lt 3 ]
 then
         echo "Usage: ./transfer PATH_TO_FILE IP PATH_TO_SSH_KEY"
