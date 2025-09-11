@@ -85,8 +85,6 @@ class HBNBCommand(cmd.Cmd):
 
         except Exception as mess:
             pass
-        finally:
-            return line
 
     def postcmd(self, stop, line):
         """Prints if isatty is false"""
